@@ -1,5 +1,5 @@
 # VITA-NoAutoAvls
-A small tool to permanently enable/disable the auto-avls "feature" on Playstation Vita
+A small utility to permanently enable/disable the auto-avls "feature" on Playstation Vita
 ## Usage
 1) Download and install the VPK
 2) Run the new app called "switch avls mode"
